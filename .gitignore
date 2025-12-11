@@ -1,5 +1,5 @@
 *.jpg
 *.json
 .env
-.env.dist
+
 
